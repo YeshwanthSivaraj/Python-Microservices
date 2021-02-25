@@ -4,7 +4,6 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/admin.iml" filepath="$PROJECT_DIR$/.idea/admin.iml" />
       <module fileurl="file://$PROJECT_DIR$/../main/.idea/main.iml" filepath="$PROJECT_DIR$/../main/.idea/main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../../../react/react-crud/.idea/react-crud.iml" filepath="$PROJECT_DIR$/../../../react/react-crud/.idea/react-crud.iml" />
     </modules>
   </component>
 </project>
